@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm freshman studying software in Gachon University.
 <!--
 **taayye4/taayye4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
